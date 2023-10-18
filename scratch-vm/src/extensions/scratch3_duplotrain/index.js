@@ -417,6 +417,28 @@ class Scratch3DuploTrainBlocks {
                 'duplotrain.red': 'Red',
                 'duplotrain.white': 'White',
             },
+             'it': {
+                'duplotrain.motorPWM': 'accendi [DIRECTION] al [POWER] % di potenza',
+                'duplotrain.motorStop': 'stop',
+                'duplotrain.playSound': 'riproduci [SOUND]',
+                'duplotrain.setHubLEDColor': 'colore luci [COLOR]',
+                'duplotrain.whenColor': 'Quando si passa sopra il blocco di azione [SENSOR_COLOR]',
+                'duplotrain.isColor': 'colore terreno [SENSOR_COLOR] ?',
+                'duplotrain.getColor': 'colore terreno',
+                'duplotrain.getDrivingDistance': 'distanza percorsa',
+
+                'duplotrain.brake': 'frenata',
+                'duplotrain.departure': 'partenza',
+                'duplotrain.refill': 'rifornimento',
+                'duplotrain.horn': 'fischio',
+                'duplotrain.steam': 'sbuffo di vapore',
+
+                'duplotrain.blue': 'Blu',
+                'duplotrain.lightGreen': 'Verde',
+                'duplotrain.yellow': 'Giallo',
+                'duplotrain.red': 'Rosso',
+                'duplotrain.white': 'Bianco',
+            },
             'ja': {
                 'duplotrain.motorPWM': '[DIRECTION] 方向に [POWER] %のパワーで走る',
                 'duplotrain.motorStop': '止まる',
